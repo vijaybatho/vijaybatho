@@ -2,7 +2,7 @@
 
 ## Senior iOS Engineer
 
-Senior iOS Engineer with **7+ years of experience** building and maintaining production mobile applications. I specialize in **Swift, SwiftUI, SDK development, API integrations, and MVVM**, with a focus on reliable, scalable, and maintainable software.
+Senior iOS Engineer with **6+ years of experience** building and maintaining production iOS applications. I specialize in **Swift, SwiftUI, SDK development, API integrations, and MVVM**, with a focus on reliable, scalable, and maintainable mobile software.
 
 I enjoy solving complex engineering problems across large codebases—from debugging difficult issues and reviewing code to optimizing performance and improving overall application quality.
 
@@ -20,8 +20,10 @@ I enjoy solving complex engineering problems across large codebases—from debug
 
 ### Currently Exploring
 
+- Scalable iOS architecture, modularization, and modern app design
+- Advanced SwiftUI patterns and production-ready implementations
 - Ruby fundamentals and practical experimentation
-- Docker and reproducible development environments
+- Docker and reproducible development environments for mobile workflows
 - Automated repository validation
 - AI-assisted software development
 - LLM evaluation workflows
@@ -30,9 +32,13 @@ I enjoy solving complex engineering problems across large codebases—from debug
 
 ### Future Projects
 
-- Focused iOS demos and architecture samples
-- Reusable SDK examples and integration guides
-- SwiftUI applications
+This profile will grow with repositories that reflect my iOS experience, current engineering work, and ongoing learning, including:
+
+- Production-inspired iOS demos and architecture explorations
+- Modular MVVM and scalable app architecture examples
+- Reusable iOS SDK samples and API integration guides
+- SwiftUI applications and modern UI experiments
+- Debugging, performance optimization, and large-codebase case studies
 - Ruby-based repository validation projects
 - LLM evaluation experiments
 
