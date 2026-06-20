@@ -44,9 +44,11 @@ This profile will grow with repositories that reflect my iOS experience, current
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/vijay-batho-072290129)
+[LinkedIn](https://www.linkedin.com/in/vijay-batho-072290129) · [Twitter](https://twitter.com/bathovijay?s=11)
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=vijaybatho&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Vijay's GitHub stats">
+-->
 
 <!---
 vijaybatho/vijaybatho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
